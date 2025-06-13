@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#F06292"  # pink
+backgroundColor="#F8BBD0"
+secondaryBackgroundColor="#AD1457"
+textColor="#000000"
+font="sans serif"
